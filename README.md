@@ -25,7 +25,7 @@ Some(List(定量PCR, PojkART, 『KUTVニュース』, EARLY MORLEY BIRD, スー�
 Wikipediaの要約データが必要です。
 
 https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89 から `https://dumps.wikimedia.org/jawiki/latest/jawiki-latest-abstract.xml.gz`
- をダウンロードしてプロジェクト直下に置いてください。
+ をダウンロードして解凍し、プロジェクト直下に置いてください。
 
 ## Motivation
 
